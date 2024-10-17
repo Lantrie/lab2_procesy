@@ -1,0 +1,1 @@
+print("Rejestracja_3")
